@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/.gitignore
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+TestNG Project1.iml
+out/
